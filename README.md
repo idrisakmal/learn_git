@@ -1,9 +1,1 @@
-# learn_git
-
-### MY FIRST README
-
-## SECOND LINE OF STUFF
-
-# HELLO WORLD
-
-something
+# This is a copy from my laptop
